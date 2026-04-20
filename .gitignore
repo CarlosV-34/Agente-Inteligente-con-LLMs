@@ -1,0 +1,62 @@
+# 🔹 Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🔹 Entornos virtuales
+
+venv/
+.env/
+.venv/
+
+# 🔹 Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# 🔹 Archivos de sistema
+
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+
+*.log
+
+# 🔹 Archivos temporales
+
+*.tmp
+*.swp
+
+# 🔹 Modelos y pesos (IMPORTANTE para LLMs)
+
+*.bin
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# 🔹 Cache de Hugging Face
+
+.cache/
+huggingface/
+hf_cache/
+
+# 🔹 Datos grandes
+
+data/*
+!data/.gitkeep
+
+# 🔹 Resultados
+
+results/*
+!results/.gitkeep
+
+# 🔹 Configuración de VSCode
+
+.vscode/
+
+# 🔹 Archivos de entorno
+
+.env
