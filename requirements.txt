@@ -16,6 +16,7 @@ scikit-learn
 
 # --- Visualización ---
 matplotlib
+seaborn
 
 # --- Notebook ---
 jupyter
