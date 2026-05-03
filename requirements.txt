@@ -1,6 +1,26 @@
+# --- LLM / Hugging Face ---
 torch
 transformers
 accelerate
 sentencepiece
 protobuf
+
+# --- RAG / Embeddings ---
+sentence-transformers
+faiss-cpu
+
+# --- Data / análisis ---
+numpy
+pandas
+scikit-learn
+
+# --- Visualización ---
 matplotlib
+
+# --- Notebook ---
+jupyter
+notebook
+ipykernel
+
+# --- Utilidades ---
+tqdm
